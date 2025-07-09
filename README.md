@@ -1,2 +1,2 @@
 # CrissKat
-![Alt text](Images/crisskat.png)
+![Alt text](images/crisskat.png)
